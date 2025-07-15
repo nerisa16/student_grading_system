@@ -1,0 +1,16 @@
+{
+    "name": "fat/gs",
+    "description": "Basic Student Grading System",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Fat\\Gs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fat S."
+        }
+    ],
+    "require": {}
+}
