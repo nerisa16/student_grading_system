@@ -1,8 +1,8 @@
 <?php
 
-namespace Caraballo\Gs\Models;
-use Caraballo\Gs\Core\Crud;
-use Caraballo\Gs\Core\Database;
+namespace Fat\Gs\Models;
+use Fat\Gs\Core\Crud;
+use Fat\Gs\Core\Database;
 
 class StudentModel extends Database implements Crud {
 
